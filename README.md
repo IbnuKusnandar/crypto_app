@@ -1,6 +1,8 @@
-# crypto_app
+# crypto_app TUGAS UTS MOBILE PROGRAMING
+NAMA: IBNU MAULANA DWI PUTRA
+NPM:2022804107
 
-A new Flutter project.
+APLIKASI CRYPTO MARKET
 
 ## Getting Started
 
