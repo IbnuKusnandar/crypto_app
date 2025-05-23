@@ -11,7 +11,7 @@ PRODI: SISTEM INFORMASI
 SEMESTER 6A
 
 
-APLIKASI CRYPTO MARKET
+APLIKASI CRYPTO MARKET RANKING 
 
 ![ss crypto](https://github.com/user-attachments/assets/08e5a43a-2ec1-482f-be5e-198b19f80cc7)
 
