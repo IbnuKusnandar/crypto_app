@@ -18,7 +18,7 @@ APLIKASI CRYPTO MARKET RANKING
 ![ss crypto2](https://github.com/user-attachments/assets/e6a25931-680a-47ad-8a47-aa0f91ee46a5)
 
 
-## Getting Started
+SIMPLE PROJECT
 
 This project is a starting point for a Flutter application.
 
