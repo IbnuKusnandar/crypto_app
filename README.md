@@ -13,6 +13,11 @@ SEMESTER 6A
 
 APLIKASI CRYPTO MARKET
 
+![ss crypto](https://github.com/user-attachments/assets/08e5a43a-2ec1-482f-be5e-198b19f80cc7)
+
+![ss crypto2](https://github.com/user-attachments/assets/e6a25931-680a-47ad-8a47-aa0f91ee46a5)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
